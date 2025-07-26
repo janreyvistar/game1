@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/janrey/Desktop/c programming/game1/build",
+  "command": "/usr/bin/cc  -I\"/home/janrey/Desktop/c programming/game1/external/include\" -g -o CMakeFiles/game.dir/main.c.o -c \"/home/janrey/Desktop/c programming/game1/main.c\"",
+  "file": "/home/janrey/Desktop/c programming/game1/main.c",
+  "output": "CMakeFiles/game.dir/main.c.o"
+}
+]

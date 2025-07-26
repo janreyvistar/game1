@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/game.dir/main.c.o -o game   -L"/home/janrey/Desktop/c programming/game1/external/lib"  -Wl,-rpath,"/home/janrey/Desktop/c programming/game1/external/lib" -lraylib -lm 
